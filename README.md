@@ -1,4 +1,4 @@
-# Employee Management System
+## Employee Management System
 
 A full-stack web application to manage employee records.
 - Frontend: ReactJS
