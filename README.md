@@ -5,7 +5,7 @@ A full-stack web application to manage employee records.
 - Backend: Spring Boot
 - Database: PostgreSQL
 
-## Features
+### Features
 - Employee CRUD operations (Create, Read, Update, Delete)
 - Responsive UI with Bootstrap
 - RESTful API integration
