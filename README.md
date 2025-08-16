@@ -22,7 +22,7 @@ A full-stack web application to manage employee records.
     ```
 2. Change directory
     ```bash
-    Employee_Management_System
+    cd Employee_Management_System
     ```
 
 ### Database Setup (Locally) - runs on PORT 5432
